@@ -1,0 +1,12 @@
+.github
+.vscode
+node_modules
+.git
+.gitignore
+.env
+.env.dev
+.dockerignore
+eslint.config.js
+README.md
+.env.template
+volumes/
